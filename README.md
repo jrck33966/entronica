@@ -135,6 +135,7 @@ New Inventory
 <sub>Contact Point</sub>
 
 ```
+tatchaij@ais.co.th
 thanakrk@ais.co.th
 ```
 
