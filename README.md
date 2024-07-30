@@ -139,6 +139,11 @@ tatchaij@ais.co.th
 thanakrk@ais.co.th
 ```
 
+<sub>Service Impact</sub>
+```
+No impact
+```
+
 <sub>Decision Risk</sub>
 <sub>Likelihood of Unplanned outage</sub>
 
@@ -154,6 +159,11 @@ thanakrk@ais.co.th
 
 <sub>Worst Service Impact</sub>
 
+```
+หากรันแอพไม่ขึ้น ให้กลับไปใช้ version ก่อนหน้านี้
+```
+
+<sub>Fallback Strategy / Condition</sub>
 ```
 หากรันแอพไม่ขึ้น ให้กลับไปใช้ version ก่อนหน้านี้
 ```
